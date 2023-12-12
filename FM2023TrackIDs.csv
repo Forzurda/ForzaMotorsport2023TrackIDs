@@ -1,7 +1,7 @@
-0	Laguna Seca Full
-1	Laguna Seca Short
-3	Road America Full
-5	Road America East Route
+0  Laguna Seca Full
+1  Laguna Seca Short
+3  Road America Full
+5  Road America East Route
 21	Silverstone GP
 22	Silverstone National
 23	Silverstone International
@@ -14,28 +14,31 @@
 67	Maple Valley Full 
 68	Maple Valley Short
 70	Maple Valley Short Reverse 
-100	Le Mans Full
-101	Le Mans Old Mulsanne
-110	Barcelona Catalunya GP
-111	Barcelona Catalunya National
-113	Barcelona Catalunya National Alt
-231	Indianapolis Brickyard
-232	Indianapolis GP
+100  Le Mans Full
+101  Le Mans Old Mulsanne
+110  Barcelona Catalunya GP
+111  Barcelona Catalunya National
+113  Barcelona Catalunya National Alt
+231  Indianapolis Brickyard
+232  Indianapolis GP
+250  Hockenheim Full
+251  Hockenheim National
+252  Hockenheim Short
 510  Yas Marina
 511  Yas Marina North
 512  Yas Marina South
 513  Yas Marina North Corkscrew
-530	Spa Francorchamps Full
-870	Watkins Glen Full
-873	Watkins Glen Short
-880	Lime Rock Park Full
-882	Lime Rock Park South Chicane
-883	Lime Rock Park Full Alt
-990	Virginia International Raceway Full
-991	Virginia International Raceway North
-992	Virginia International Raceway South
-995	Virginia International Raceway Grand West
-996	Virginia International Raceway Grand East
+530  Spa Francorchamps Full
+870  Watkins Glen Full
+873  Watkins Glen Short
+880  Lime Rock Park Full
+882  Lime Rock Park South Chicane
+883  Lime Rock Park Full Alt
+990  Virginia International Raceway Full
+991  Virginia International Raceway North
+992  Virginia International Raceway South
+995  Virginia International Raceway Grand West
+996  Virginia International Raceway Grand East
 1110	Homestead-Miami Speedway
 1111	Homestead-Miami Road Circuit
 1450	Mid-Ohio Sports Car Circuit
